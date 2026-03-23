@@ -161,3 +161,5 @@ socket.on("gameEnd", (leaderboard) => {
     })
     .join("");
 });
+
+// Comment: this coment is for code review purposes.
